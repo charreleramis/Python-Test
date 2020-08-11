@@ -1,0 +1,5 @@
+the unit testing uses the pytest framework
+
+pls execute 
+
+> py.test -v
